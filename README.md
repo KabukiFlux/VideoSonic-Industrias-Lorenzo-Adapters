@@ -1,4 +1,4 @@
-# VideoSonic Industrias Lorenzo Adapters (to be tested)
+# VideoSonic Industrias Lorenzo Adapters
 
 
 # ```SPANISH```
@@ -22,9 +22,6 @@ Estos son los joysticks IL Compacto e IL Eurostick 2.
 La placa original tiene las dimensiones para el stick personalizado por lo que necesitaremos una placa adaptadora para cambiar los agujeros de los tornillos y poder convertir el antiguo en el nuevo sin modificar el CPO (panel). 
 
 ![Super Video original CPO](./assets/super_video_cpo.jpg)
-
-![PCB Adapter videosonic to lorenzo](./assets/adaptador_videosonic_lorenzo_compacto.png)
-
 
 [Industrias Lorenzo Eurostick 2](https://www.industrias-lorenzo.com/es/mandos/96-508-eurojoystick-pe2.html#/55-color_bola-negro/62-color_pomo-blanco)
 
@@ -69,6 +66,26 @@ Son dos placas diferentes ya que las dimensiones entre tornillos son diferentes 
 ![PCB](./assets/pcb_layout.jpg)
 
 
+Actualización 31/07/2023
+============
+
+Funciona perfectamente, incluso es posible usar la versión para Eurostick 2
+en los compactos; fotos de una conversión real:
+
+
+![Real 00](./assets/00_real.jpg)
+
+![Real 01](./assets/01_real.jpg)
+
+![Real 02](./assets/02_real.jpg)
+
+![Real 03](./assets/03_real.jpg)
+
+![Real 04](./assets/04_real.jpg)
+
+
+
+
 # ```ENGLISH```
 
 
@@ -92,8 +109,6 @@ These are the IL Compact and IL Eurostick 2 joysticks.
 The original board has the dimensions for the customized stick so we will need an adapter plate to change the screw holes so that the old one can be converted to the new one without modifying the CPO (panel). 
 
 ![Super Video original CPO](./assets/super_video_cpo.jpg)
-
-![PCB Adapter videosonic to lorenzo](./assets/adaptador_videosonic_lorenzo_compacto.png)
 
 
 [Industrias Lorenzo Eurostick 2](https://www.industrias-lorenzo.com/es/mandos/96-508-eurojoystick-pe2.html#/55-color_bola-negro/62-color_pomo-blanco)
